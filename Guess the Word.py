@@ -5,7 +5,7 @@ print("Welcome to Guess the Word!🕵️‍♀️")
 print("Make sure to type the letters in order.")
 
 #List of words to choose from
-word_list = ["Apple", "Orange", "Banana", "Cherry", "Guava", "Red", "Magenta", "Blue", "Brown", "Black", "Panda", "Cat", "Dog", "Rabbit", "Monkey"]
+word_list = ["Apple", "Orange", "Banana", "Cherry", "Guava", "Pineapple", "Blueberries", "Red", "Magenta", "Blue", "Brown", "Black", "Purple", "Indigo", "Panda", "Cat", "Dog", "Rabbit", "Monkey"]
 
 while True:
     #Computer generates a random word and tells how many letters in that word
